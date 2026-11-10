@@ -1,5 +1,5 @@
-#CarmiStyle
-##Piattaforma 
+# CarmiStyle
+## Piattaforma 
 CarmiStyle è una piattaforma e-commerce innovativa pensata per offrire un'esperienza di shopping online semplice, veloce e sicura. 
 Il sito permette agli utenti di esplorare cataloghi di abbigliamento aggiornati, 
 gestire il proprio carrello e monitorare gli ordini in tempo reale.
